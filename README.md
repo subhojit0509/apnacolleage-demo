@@ -1,4 +1,4 @@
 # apnacolleage-demo
 This is my first get repository.
 <br>
-Author-Subhojit Mondal
+Author-Subhojit (apnacolleage-demo)
